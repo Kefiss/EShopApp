@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EShopApp</string>
+    <string name="rightAddress">Just welcome\nText</string>
+    <string name="start">Start</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="haveAccount">Have an account? Log in!</string>
+    <string name="dontHaveAccount">Don\'t have an account? Register!</string>
+    <string name="letsRegister">Lets register!</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="letsLogin">Let\'s login!</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="welcomeText">Welcome to\nEShopApp</string>
+</resources>
